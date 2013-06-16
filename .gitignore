@@ -1,4 +1,6 @@
 *~
 *.pyc
 
+localsettings.py
+
 polls.db
