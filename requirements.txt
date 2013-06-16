@@ -1,0 +1,4 @@
+Django==1.5.1
+argparse==1.2.1
+-e git+git@github.com:django-debug-toolbar/django-debug-toolbar.git@25ea0b4b33ae77ccaf12de5fdb467c9270d948ef#egg=django_debug_toolbar-dev
+wsgiref==0.1.2
